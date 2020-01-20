@@ -1,0 +1,17 @@
+---
+title: Course files
+author: George Matthews
+output:
+  html_document: default
+---
+
+## Science or Superstition
+[syllabus](PYDI-2710-SP-2020.html)
+- [print](PYDI-2710-SP-2020.pdf)
+
+***
+### group project files
+
+- [asset map](asset-map.pdf)
+
+- [process evaluation](process-eval.pdf)

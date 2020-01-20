@@ -1,0 +1,30 @@
+---
+output:
+ pdf_document: 
+  latex_engine: pdflatex
+  toc: no
+  includes:
+   in_header: process-eval-preamble.tex
+---
+
+\thispagestyle{fancy}
+
+In ONE WORD please sum up your experience working with your group.
+
+\vspace*{2.5cm}
+
+
+***
+In ONE WORD please describe your group's effectiveness:
+
+\vspace*{2.5cm}
+
+***
+
+What in particular might you do to help your group more effectively meet your goals?
+
+\vspace*{5cm}
+
+***
+
+What does your group still need to accomplish in order to meet your goals? BE SPECIFIC.
