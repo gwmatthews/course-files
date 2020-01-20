@@ -1,0 +1,84 @@
+---
+title: "Science or Superstition"
+author: "George W. Matthews"
+date: "Spring 2020"
+output:
+ pdf_document: 
+  latex_engine: pdflatex
+  toc: no
+  includes:
+   in_header: syllabus-preamble.tex
+ html_document:
+  toc: no
+---
+
+\thispagestyle{fancy}
+***
+Office: Memorial 005
+
+Office hours: T, TH 9-10:45 AM and by appointment
+
+***
+
+## *Textbook*
+
+Readings are available at the [Science or Superstition course blog](http://www.6worlds.net/science-blog/).
+
+***
+
+### *Groups*
+
+Everyone in class will be randomly assigned to a group of 3 or 4 people. These groups are for three different purposes:
+
+1. They determine when your blog posts are due. Your blog posts are done by you alone, group membership just determines when you post.
+2. You will work with your group on in-class assignments such as the Case Studies.
+3. You will work with your group on the big group project described below.
+
+***
+
+### *Assignments*
+
+#### Blog
+
+- Everyone in the course will be required to post three original articles to the course blog. Posting deadlines will be determined by which group you are in. See [course calendar](http://www.6worlds.net/science-blog/science-or-superstition/assignments/) for details.
+
+#### Blog comments
+
+- In addition to posting articles on the blog you will also be required to comment on your classmates articles 20 times over the course of the semester.
+
+#### Reading comments
+
+- The course blog also contains the readings for the semester. In addition to commenting on your classmates posts, you will also have to comment 20 times on ites from the reading list.
+
+#### Case studies
+
+- There will be five in-class case study assignents to be completed with your group.
+
+#### Group project
+
+- The big group project for the semester is an extended examination in some area of "not quite science." This project will involve: establishing a group charter, keeping notes on group meetings and progress, picking a topic, investigating that topic, writing a group blog post, and doing a brief class presentation on the final exam day. We will get started on this project in class.
+
+***
+
+### *Class norms*
+
+As for cell phone use, attendence, participation and so on, this will be decided upon by the class as a whole in the first week of the semester.
+
+***
+
+### *Catalog Course Description*
+
+Utilizes scientific methodologies to investigate, analyze, and interpret data to propose answers, offer explanations, and make predictions to philosophically analyze the power and limitations of science. Distinguishes science from irrational opinion and superstition. Explores the extent to which science is a way to knowledge, and finds philosophical principles that can guide us in evaluating controversial beliefs.
+
+### *Course learning outcomes*
+
+1. Utilize scientific methods to plan, investigate, collect, analyze, and interpret data to propose answers and explanations about reality.
+2. Engage in significant field or lab work to study and analyze phenomena and make predictions about experiences in contemporary environments.
+3. Identify the power and limitations of scientific methodologies.
+4. Distinguish between science, pseudoscience, and superstition.
+5. Identify philosophical principles that can guide us in evaluating controversial beliefs.
+6. Distinguish between scientific reasoning and irrational opinion.
+
+### *ADA Statement*
+
+Plymouth State University is committed to providing students with documented disabilities equal access to all university programs and facilities. If you think you have a disability requiring accommodations, you should immediately contact the Disability Services Office (DSO) in the Center for Student Success in Mary Lyon (535-3065) to determine whether you are eligible for such accommodations. Academic accommodations will only be considered for students who have registered with DSO. If you have a Letter of Accommodation for this course from DSO, please provide the instructor with that information privately so that you and the instructor can review those accommodations.
