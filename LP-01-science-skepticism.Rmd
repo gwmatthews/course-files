@@ -3,17 +3,16 @@ pagetitle: "Lesson plan: Science, Philosophy and Skepticism"
 author: "George Matthews"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 classoption: letterpaper
-geometry: margin = 2cm
+geometry: margin = 2.5cm
 params:
   course: "PYDI 2710"
   lesson: "1. Science, Philosophy and Skepticism"
 output: 
+  pdf_document:
+    template: templates/lesson-plan.tex
   html_document:
     css: css/R.css
     template: templates/lesson-plan.html
-  pdf_document:
-    toc_depth: 2
-    template: templates/lesson-plan.tex
 ---
 
 \thispagestyle{fancy}
