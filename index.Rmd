@@ -10,6 +10,12 @@ output:
 - [print](PYDI-2710-SP-2020.pdf)
 
 ***
+### lesson plans
+
+- [1. Philosophy, science and skepticism](LP-01-science-skepticism.html)
+  - [pdf](LP-01-science-skepticism.pdf)
+
+***
 ### group project files
 
 - [asset map](asset-map.pdf)
