@@ -17,7 +17,14 @@ output:
 
 \thispagestyle{fancy}
 
-## Opener 
+## Aims
+
+1. Understand who Socrates was and why he thought his mission was important.
+2. Recognize the role of skepticism in science and philosophy.
+3. Become famliar with the three main branches of philosophy and with representative questions in each.
+4. Distinguish between two different ways in which a scientific claim can fail 
+
+## Opener
 
 - What would you do if cell phones suddenly disappeared? 
 - Would you be happier, healthier, more anxious, lonelier, more productive?
@@ -96,4 +103,4 @@ Questions should be:
 
 ## Conclusions
 
-Why doesn't skepticism have to entail relativism?
+Question to think about: Why doesn't embracing skepticism have to lead to embracing relativism and giving up on truth?
