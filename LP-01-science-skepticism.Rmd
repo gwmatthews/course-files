@@ -1,0 +1,100 @@
+---
+pagetitle: "Lesson plan: Science, Philosophy and Skepticism"
+author: "George Matthews"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+classoption: letterpaper
+geometry: margin = 2cm
+params:
+  course: "PYDI 2710"
+  lesson: "1. Science, Philosophy and Skepticism"
+output: 
+  html_document:
+    css: css/R.css
+    template: templates/lesson-plan.html
+  pdf_document:
+    toc_depth: 2
+    template: templates/lesson-plan.tex
+---
+
+\thispagestyle{fancy}
+
+## Opener 
+
+- What would you do if cell phones suddenly disappeared? 
+- Would you be happier, healthier, more anxious, lonelier, more productive?
+- Ask students to write down three positive and three negative things that would result. Randomly pick three people to respond with one point each.
+
+*5 minutes*
+
+## Question everything?
+
+- Socrates: the first philosopher.
+- His mission: to find out and critically evaluate the assumptions that his fellow citizens made about how best to live.
+- His method: challenging others to examine their assumptions. Often resulting in skeptical conclusions:  the only thing he knew was how little he knew.
+- His fate: eventually he pissed off enough people that they killed him for corrupting the youth.
+
+*15 minutes*
+
+## What do we know and how do we know it?
+
+Skepticism: a general attitude of questioning things instead of taking them for granted as true. What are its uses and limits?
+
+Example: have cell phones destroyed a generation?
+
+Skimming task.
+
+- Read through cell phone article to find out:
+  - Three effects that author claims cell phone use has had on the youngest generation.
+  - What are the cut off dates of this generation?
+  - What sources of evidence does the author use to base her conclusions on?
+  
+- How might we go about evaluating claims like this for scientific adequacy?
+
+We need to answer two questions:
+
+- Does the evidence support the claims made?
+- Is the evidence itself reliable?
+
+*20 minutes*
+
+## What is science anyway?
+
+Science as organized skepticism.
+
+Constraints on skepticism:
+
+- Rejection of global skepticism
+- Many eyes make all bugs shallow
+- Hypothetico-deductive method
+  - make claims explicit and testable
+  - test them
+  - put forward theories last
+  - theories subject to revision based on new data, new theories, new ideas
+  - aims towards integration of knowledge
+- Naturalistic explanations only.
+  
+*10 minutes*
+
+## Philosophical questions about science
+
+Brainstorming activity: come up with 2 of each kind of philosophical question
+
+Questions should be:
+
+- general
+- about basic assumptions
+- not the kind of questions that science answers 
+- the sort of questions inquisitive kids ask
+
+*Metaphysical questions:* questions about reality, what exists, its basic nature and behavior
+
+*Epistemological questions:* questions about knowledge, its possibility, its forms and their limitations
+
+*Axiological questions:* questions of value, what matters, right and wrong, good and evil, justice, fairness, beauty
+
+*15 minutes*
+
+
+## Conclusions
+
+Why doesn't skepticism have to entail relativism?
