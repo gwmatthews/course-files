@@ -1,0 +1,74 @@
+---
+pagetitle: "Lesson plan: The Scientific Revolution"
+author: "George Matthews"
+date: "11 February, 2020"
+classoption: letterpaper
+geometry: margin = 2.5cm
+params:
+  course: "PYDI 2710"
+  lesson: "4. The Scientific Revolution"
+output: 
+  html_document:
+    css: "css/R.css"
+    template: "templates/lesson-plan.html"
+  pdf_document:
+    template: "templates/lesson-plan.tex"
+---
+
+\thispagestyle{fancy}
+
+## Aims
+
+1. I'd like people to get a real sense of how much of an upheaval the scientific revolution really was, why it was that the established order found the ideas of the new scientists so threatening.
+
+2. I'd also like for people to learn how some major figures in the scientific revolution had one foot in each of the old and new visions of the universe.
+
+3. And I'd like people to recognize that doing science is not just a matter of substituting some new view for an old one, but a process of trial and error, slow and halting progress, with regressions along the way as well.
+
+## Opener
+
+What makes life meaningful?
+
+*10 minutes*
+
+## Before the Scientific Revolution
+
+
+Before the scientific revolution the world was divided in two:
+
+- the world down here on earth
+  - generation and corruption
+  - stained by sin
+  - where things miraculously come to life and then inevitably die
+
+<br>
+
+- the world up there in the heavens
+  - where angels and God live
+  - perfect in all ways, unchanging, a world of perpetual motion
+
+In this world, everything had a purpose and explanations of events had to take this into account. It was also a world where humans could, through a spiritual journey, find their way back to being at home, since ultimately it was a world made for us, centered on us physically as well as spiritually.
+
+## After the Scientific Revolution 
+
+After the scientific revolution, the world was united,
+
+- but at the expense of magic being banished, a figment of the imagination;
+
+- disenchanted, operating only according to a universal set of mechanistic laws.
+
+In this new world, purposes are human inventions, as fleeting and fickle as our desires. It is now up to us to make meaning of our own lives, and if we don't, well, tough luck.
+
+*25 minutes*
+
+## Slideshow
+
+
+
+*25 minutes*
+
+## Conclusions
+
+
+
+*10 minutes*

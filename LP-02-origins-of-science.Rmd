@@ -1,0 +1,82 @@
+---
+pagetitle: "Lesson plan: On the Origins of Science"
+author: "George Matthews"
+date: "30 January, 2020"
+classoption: letterpaper
+geometry: margin = 2.5cm
+params:
+  course: "PYDI 2710"
+  lesson: "2. On the Origins of Science"
+output: 
+  pdf_document:
+    template: "templates/lesson-plan.tex"
+  html_document:
+    css: "css/R.css"
+    template: "templates/lesson-plan.html"
+---
+
+\thispagestyle{fancy}
+
+## Aims
+
+1. Mythical versus naturalistic ways of making meaning
+2. The origins of science in critical reflection on apparent patterns
+3. Roots of science in spontaneous activity of noticing salient patterns
+4. Innovations of the ancient Greeks
+
+## Opener
+
+Why should we study the history of science?
+
+What is it that I find so fascinating about the ways in which people have figured it out?
+
+What is it that I want to convey to my students about the history of ideas?
+
+Gazing up at the stars what do we see?
+- a reflection of ourselves and a way to take control of out lives by detecting patterns and relating them back to our own dramas?
+- or an endless universe where star light that is far older than human civilization has finally gotten to the planet on which we sail through empty space.
+
+Constellations are nothing but apparent patterns -- projections of our own hopes and dreams and wishes onto a reality that doesn't even notice that we are here.
+
+- Pattern detection example
+
+*5 minutes*
+
+## Human origins
+
+What makes us unique as a species?
+
+Our big brains?
+
+Integration of our brains sensory input goes through many layers of processing that bind together all of the different pathways in complex relationships with each other, looping back on themselves and capable of being made explicit in language.
+
+*15 minutes*
+
+## The agricultural revolution
+
+- Ancient astronomy
+- Astronomy and astrology
+
+*15 minutes*
+
+## Interlude: astrology
+
+- Students find people with same astrological sign as themselves and see if they can come up with three similarities between them.
+
+- Class discussion on whether the patters they found are real or not.
+
+## Ancient Greek naturalism
+
+- Thales
+- Pythagoras 
+- Zeno
+- Aristotle
+- Archimedes
+- Ptolemy
+
+*20 minutes*
+
+
+## Conclusions
+
+Question to think about: do you believe in magic?

@@ -1,0 +1,65 @@
+---
+pagetitle: "Lesson plan: Magical Thinking"
+author: "George Matthews"
+date: "4 February, 2020"
+classoption: letterpaper
+geometry: margin = 2.5cm
+params:
+  course: "PYDI 2710"
+  lesson: "3. Magical Thinking"
+output: 
+  html_document:
+    css: "css/R.css"
+    template: "templates/lesson-plan.html"
+  pdf_document:
+    template: "templates/lesson-plan.tex"
+---
+
+\thispagestyle{fancy}
+
+## Aims
+
+1. Explore varieities of magical thinking
+2. Distinguish different approaches to it
+3. Come up with possible explanations of magical thinking
+
+## Opener
+
+Examples on screen "Would you..."
+
+*10 minutes*
+
+## Class activity: find, classify and explain examples of superstitions
+
+- Students work in groups of three.
+  - data collectors
+  - classifiers
+  - explainers
+
+- data collectors: collect examples on index cards -- goal 30 examples
+
+- classifiers: classify into groups based on similarities -- three or four main categories
+
+- explainers: come up with ideas as to what might explain why we find these modes of thought helpful, or where they might come from 
+
+- Discuss results
+
+*25 minutes*
+
+## Slideshow
+
+My classification scheme and possible explanations:
+
+- Essentialism: a side effect of categorization
+
+- Words and thoughts have power: a side effect of the magic of language
+
+- Agents are everywhere: a side effect of social cognition
+
+*25 minutes*
+
+## Conclusions
+
+Question to discuss: is belief in magic a good thing or not?
+
+*10 minutes*
