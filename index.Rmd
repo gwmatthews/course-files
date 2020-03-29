@@ -24,4 +24,4 @@ output:
 
 ### handouts
 
-- [fallacies](fallacies.pdf)
+- [fallacies](fallacies-cheat-sheet.pdf)
