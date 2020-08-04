@@ -96,3 +96,8 @@ span.samp{
 div.vignettes a:hover {
     background: rgb(85%, 85%, 85%);
 }
+
+.wider ul {
+    line-height: 400%;
+    
+}

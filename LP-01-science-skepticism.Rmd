@@ -1,12 +1,12 @@
 ---
-pagetitle: "Lesson plan: Science, Philosophy and Skepticism"
+pagetitle: "Checklist"
 author: "George Matthews"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 classoption: letterpaper
 geometry: margin = 2.5cm
 params:
   course: "PYDI 2710"
-  lesson: "1. Science, Philosophy and Skepticism"
+  lesson: ""
 output: 
   pdf_document:
     template: templates/lesson-plan.tex
