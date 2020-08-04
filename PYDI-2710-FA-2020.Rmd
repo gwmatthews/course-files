@@ -1,21 +1,29 @@
 ---
-title: "Science or Superstition"
+title: "PYDI 2710: Science or Superstition "
 author: "George W. Matthews"
 date: "Fall 2020"
 output:
+ html_document:
+  toc: no
+  css: syllabus-style.css
  pdf_document: 
   latex_engine: pdflatex
   toc: no
   includes:
    in_header: "FA-2020-syllabus-preamble.tex"
- html_document:
-  toc: no
-  css: syllabus-style.css
 ---
 
 \thispagestyle{fancy}
 
 ***
+
+
+```{asis, echo=identical(knitr:::pandoc_to(), 'html')}
+
+<h3>Plymouth State University</h3>
+
+```
+
 
 ## *Contact info*
 
