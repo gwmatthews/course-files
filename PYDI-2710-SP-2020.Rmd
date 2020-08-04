@@ -3,13 +3,13 @@ title: "Science or Superstition"
 author: "George W. Matthews"
 date: "Spring 2020"
 output:
+ html_document:
+  toc: no
  pdf_document: 
   latex_engine: pdflatex
   toc: no
   includes:
    in_header: "SP-2020-syllabus-preamble.tex"
- html_document:
-  toc: no
 ---
 
 \thispagestyle{fancy}
@@ -90,7 +90,6 @@ Everyone in class will be randomly assigned to a group of 3 or 4 people. These g
 Cell phones and laptops are useful tools but they can also be a distraction. It is expected that showing up to class means you are intending to fully participate. This means that if devices are open you shouldn't be doing non-class related things on them including working on blog posts and comments during class.
 
 Participating in class discussions is a great way to learn as much as you can from the course so being willing to participate and not leave it up to the unofficial "spokespeople" who may step up to respond to questions is encouraged.
-
 
 ### *Attendance*
 

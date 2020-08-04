@@ -39,3 +39,10 @@
 .groups {
   background-image: url("./img/group.png");
 }
+
+@media (max-width: 700px){
+  .assignment, .groups {
+  padding: 0.5em 2em 0 3em;
+  }
+  
+}
