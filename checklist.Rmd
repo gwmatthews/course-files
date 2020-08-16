@@ -1,0 +1,79 @@
+---
+pagetitle: "Checklist"
+author: "George Matthews"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+classoption: letterpaper
+geometry: margin = 2.5cm
+params:
+  course: "PYDI 2710"
+  topic: "Assignments checklist"
+output: 
+  html_document:
+    css: css/R.css
+    template: templates/handout.html
+  pdf_document:
+    template: templates/handout.tex
+---
+
+\thispagestyle{fancy}
+
+## Blog
+
+
+### Comments on classmates' posts{.wider}
+
+Positive/in agreement: (10) ___
+
+Critical/in disagreement: (10) ___
+
+<br>&nbsp;<br>
+
+### Comments on readings/videos/slideshows{.wider}
+
+Positive/in agreement: (10) ___
+
+Critical/in disagreement: (10) ___
+
+<br>&nbsp;<br>
+
+### Blog posts{.wider}
+
+Post 1: (5) ___
+
+Post 2: (5) ___
+
+Post 3: (5) ___
+
+Post 4: (5) ___
+
+<br>&nbsp;<br>
+
+### Case Studies{.wider}
+
+Case 1: (5) ___
+
+Case 2: (5) ___
+
+Case 3: (5) ___
+
+Case 4: (5) ___
+
+Case 5: (5) ___
+
+<br>&nbsp;<br>
+
+### Extended collaborative blog post (with 1 or 2 coauthors)
+
+Long Read: (20) ___
+
+<br>&nbsp;<br>
+
+### Participation
+
+Teach half of a class: (20) ___
+
+Demonstration: (10) ___
+
+Active Participation: (10) ___
+
+Attendence: (5) ___

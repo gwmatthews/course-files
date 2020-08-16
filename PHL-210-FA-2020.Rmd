@@ -1,0 +1,180 @@
+---
+title: "PHL 210: Ethics"
+author: "George W. Matthews"
+date: "Fall 2020"
+output:
+ pdf_document: 
+  latex_engine: pdflatex
+  toc: no
+  includes:
+   in_header: "PHL-210-FA-2020-preamble.tex"
+ html_document:
+  toc: no
+  css: syllabus-style.css
+---
+
+\thispagestyle{fancy}
+
+
+```{asis, echo=identical(knitr:::pandoc_to(), 'html')}
+
+<h2>Pennsylvania College of Technology</h3>
+
+```
+
+
+### *Contact info*
+
+<div class="infobox" markdown="1">
+
+**Email**: this is the most reliable way to contact me. Address available on PLATO and in Outlook. 
+
+**Office hours**: I'll be in the course chat room the first Friday, the first Sunday and the second Wednesday of each two week section of the course. See PLATO calendar for exact dates and times. These office hours double as open discussions, see "Participation" below.
+
+</div>
+
+### *About this course*
+
+<div class="infobox" markdown="1">
+
+Everyone has an opinion on ethical issues.  However, as philosophers are fond of pointing out, almost no one has a very convincing justification for their opinions about ethical issues.  This course is an investigation of the problem of justifying ethical opinions in theory and in practice.  The theoretical side of the course is a critical examination of the major theoretical approaches to providing justification for opinions about ethical issues.  We investigate questions about the nature, status and justification for moral claims.  We examine the relationship between ethics and cultural codes of conduct; religious doctrines and beliefs; the claim that ethical value should be based on the consequences of our actions; and the notion of the rights of individuals.  The practical side of the course involves the application of philosophical thinking to real world controversies about such matters as euthanasia, reproductive technologies, crime, punishment and the death penalty, individual liberty and the legal status of illicit drugs, violence, war, and the moral status of non-human animals.  In all of these cases the point is to examine our assumptions and beliefs from a critical standpoint seeking to justify them rather than just entertaining them.
+
+</div>
+
+### *Textbooks*
+
+<div class="note" markdown="1">
+
+- George Matthews, [*Philosophical Ethics*](https://gwmatthews.github.io/ethics/){target="_blank"}
+- Dan Ariely, [*The Honest Truth About Dishonesty*](http://danariely.com/books/the-honest-truth-about-dishonesty/){target="_blank"}
+  - [Audio version also available.](https://www.harpercollins.com/9780062209320/the-honest-truth-about-dishonesty){target="_blank"}
+- Capatano and Critchley, [*Modern Ethics in 77 Arguments*](http://books.wwnorton.com/books/Modern-Ethics-in-77-Arguments/){target="_blank"}
+
+</div>
+
+
+
+### *Course Structure*
+
+<div class="infobox" markdown="1">
+
+This course is divided into seven two week long sections (except for the last which is longer). Each section has its own assignments but they do follow a simple pattern. In each section there will be a reading assignment, a discussion assignment, a live chat session, and a reading commentary assignment. Most things will be due at the end of each section (although some assignments should be done mid-way through the section), which means on every other Sunday at midnight. To help keep you organized and on time everything is on the course calendar and there are optional checklists in each section which have all due dates on them.
+
+At the end of the semester there will also be a larger assignment, as you can see below.
+
+</div>
+
+### *Assignments* 
+
+<div class="assignment" markdown="1">
+
+#### Participation 
+
+Philosophy is best learned through real time discussion and debate. To encourage this, participation in live discussions in the course chat room or video conference room will be a part of your grade. To accommodate people's different schedules there will be multiple sessions available in each two week section of the course, and your assignment is to show up and participate one time in each section. Even though there are seven sections of the course, you will only be required to attend one of the sessions in six of these, which means you get to miss one entirely for no penalty. If you show up once in all of the seven sections you will get extra credit. See course for details on dates and times.
+
+*30 points*
+
+</div>
+
+
+<div class="assignment" markdown="1">
+
+#### Discussions
+
+Each of the first six sections has its own open discussion forum for discussing anything interesting and relevant to the course material. Each person in the course is responsible for starting one new thread and responding five times to any current threads, one you or anybody else has started in the current discussion board. I will post a thread in each forum to get discussion moving and I encourage you to respond to it although this is not required. The only requirements for your new threads is that your posts should be **interesting and relevant**. Please read the guidelines for posting which also spell out the grading system that will be used and post your new thread by the first Sunday of each section so others can have something to comment on. (5 points each – with possible extra credit for regularly posting more than the required amount on a regular basis). NOTE: the discussion forum in week 6 is a little different, please see course website for explanation.
+
+*35 points*
+
+</div>
+
+<div class="assignment" markdown="1">
+
+#### Comments on readings
+
+This semester we will be using an online tool called **Hypothes.is** that enables you to comment on and discuss any page on the web by taking notes in the margins of that page. Every section you will be responsible for writing 4 such notes (or responses to other people's notes) on the course readings and/or other webpages. M[ore information about Hypothes.is can be found on this course page](https://learn.pct.edu/d2l/le/content/54191/viewContent/1534672/View){target="_blank"}.
+
+*25 points*
+
+</div>
+
+<div class="assignment" markdown="1">
+
+#### Applied ethics annotated bibliography
+
+This project will be our focus for the last few weeks of the semester. It involves picking a controversy or debate in applied ethics, doing some external research on the various arguments that might be used to defend different approaches to this topic, and creating an annotated bibliography.
+
+*20 points*
+
+</div>
+
+
+### *Grades*
+
+<div class="caution" markdown="1">
+
+There are **110 possible points** in the course. 
+
+  - **To pass** you need to earn **60 points** (54% of total).
+  - **For a C** you need to earn **77 points** (70% of total).
+  - **For a B** you need to earn **88 points** (80% of total).
+  - **For an A** you need to earn **99 points** (90% of total). 
+  
+Up to 10 points **extra credit** can be earned for contributing more than the required amount to the discussions, attending extra online sessions or doing more than the required reading comments.
+  
+</div>
+
+***
+
+### *Accessibility*
+
+<div class="infobox" markdown="1">
+
+
+I have designed and chosen web-based learning material with accessibility in mind. If you find any shortcoming in this regard please let me know and I can fix things.
+
+</div>
+
+### *Course Description*
+
+<div class="infobox" markdown="1">
+
+Basic study of theoretical and applied philosophical ethics, covering the major philosophical approaches to ethics including relativism, religious ethics, egoism, utilitarianism, and deontological ethics. These theories are then applied to the critical analysis of real world controversies involving topics such as euthanasia, capital punishment, individual liberty, discrimination, and the human relation to animals. Throughout, emphasis is placed on the role of rational argumentation in justifying ethical opinions. 3 Credits (3 Lecture - 0 Lab) 
+
+</div>
+
+### *Course Learning Outcomes*
+
+<div class="infobox" markdown="1">
+
+On successful completion of this course the student will be able to:
+
+1. Describe the aim of philosophy, its major branches and how it differs from science and other cultural forms.
+2. Explain and employ valid and sound reasoning.
+3. Classify and describe logical fallacies and cognitive biases as they relate to reasoning about ethics.
+4. Proficiently use the Hypothes.is web-annotation tool to add comments to web pages.
+5. Explain and analyze major philosophical approaches to ethics in terms of their claims, consequences and common arguments given in their support.
+6. Critically assess philosophical arguments about real-world ethical issues. 
+7. Describe and explain the major lines of argument concerning a selection of issues in applied ethics.
+8. Engage in philosophical debate with their peers on a variety of topics in ethics.
+
+</div>
+
+### *Information Literacy*
+
+<div class="infobox" markdown="1">
+
+Emphasis will be placed on your ability to obtain information beyond the structured environment of the College in general and this class in particular.
+
+- Verify your Internet and your College email access. Check your College email frequently.
+
+- Test your ability to upload and download properly formatted documents to appropriate areas on the College’s servers and drives.
+
+- Familiarize yourself with the Library’s holdings and acquisitions related to philosophy and ethical issues.
+
+- Access the College Library’s holdings—especially the resources available through full-text databases and through substantive database searches.
+
+- Improve your on-line research skills—especially your ability to evaluate source credibility.
+
+- Keep up with current events, taking special note of the ethical dilemmas that arise and how moral theory addresses those issues.
+
+</div>

@@ -1,0 +1,189 @@
+---
+title: "PYDI 2710: Science or Superstition "
+author: "George W. Matthews"
+date: "Fall 2020"
+output:
+ html_document:
+  toc: no
+  css: syllabus-style.css
+ pdf_document: 
+  latex_engine: pdflatex
+  toc: no
+  includes:
+   in_header: "PYDI-2710-FA-2020-preamble.tex"
+---
+
+\thispagestyle{fancy}
+
+***
+
+
+```{asis, echo=identical(knitr:::pandoc_to(), 'html')}
+
+<h3>Plymouth State University</h3>
+
+```
+
+
+## *Contact info*
+
+<div class="infobox" markdown="1">
+
+**Email**: this is the most reliable way to contact me. Address available on Moodle and in Outlook. 
+
+**Office**: I have a big enough office to meet face to face if you'd like  in Memorial 110.
+
+**Virtual Office**: I'll also be on Discord in my own private server. Follow invitation link from course Moodle page.
+
+**Office hours**
+
+- Tuesdays and Thursdays: 12:30 - 1:30 PM in Memorial 110 (and on Discord).
+- Wednesdays: 6 - 8 PM on Discord.
+- By appointment - email me or send me a DM on Discord.
+
+**Phone**: Listed on course Moodle page. Please state your name if you send a text! And avoid leaving voicemail messages since Verizon tends to deliver them days after you leave them.
+
+</div>
+
+***
+
+## *Special Note*
+
+<div class="caution" markdown="1">
+
+Given the unusual circumstances in which we all find ourselves, I want to make sure everyone knows that I will do my utmost to help you get the most of this course.
+
+This includes doing my best to make this course accessible, engaging and well organized no matter HOW it ends up being offered -- in the classroom, remotely or as a fully online course.
+
+It also includes helping you to meet your own basic needs for health, safety, housing, food and social engagement. Some of these things are beyond my personal ability to solve (I don't happen to have dozens of spare rooms or a farm at my disposal). But at least I may have some ideas on how to meet these needs when things get difficult. So please do not hesitate to reach out if you need to! 
+
+</div>
+
+## *Textbook*
+
+<div class="note" markdown="1">
+
+There is no textbook for this course. Required readings and other assignments are available at the [Science or Superstition course blog](http://www.6worlds.net/science-blog/). We will be making extensive use of the blog in this course so please check it out and bookmark it now. In the beginning of the course there will be a workshop on how to use the blog.
+
+</div>
+
+## *Groups*
+
+<div class="groups" markdown="1">
+
+Everyone in class has randomly assigned to a group of 4 or 5 people. These groups are for four different purposes:
+
+1. They will determine when you should plan on attending class. The new safety requirements limit the number of people who can be in the classroom at one time. What this means is that half of you will be assigned to attend in person on Tuesdays and the other half on Thursdays, with the other day involving attending via the remote Zoom link.
+2. They determine when your blog posts are due. Your blog posts are done by you alone, group membership just determines *when* you post.
+3. You will work with your group on in-class assignments such as the Case Studies.
+
+</div>
+
+## *Assignments* 
+
+<div class="assignment" markdown="1">
+
+### Participation 
+
+- To enable all of us to be here safely while minimizing the risks of a Covid-19 outbreak, only half of the class will be permitted to be in the classroom on any given day. The other half of the class will be participating remotely via Zoom. 
+
+- To encourage active participation in a situation that might seem to lead us all to disconnect, showing up in the classroom as well as active participation when showing up for the remote classroom will be a part of your grade. 
+
+- Everyone will get 1 point for every time they show up in class, or show up and ACTIVELY participate remotely, through chat, video or voice. 
+
+*25 points*
+
+</div>
+
+<div class="assignment" markdown="1">
+
+### Blog posts
+
+- Everyone in the course will be required to post three original articles to the course blog. Posting deadlines will be determined by which group you are in. See [course calendar](http://www.6worlds.net/science-blog/science-or-superstition/assignments/) for details. 
+
+*30 points*
+
+</div>
+
+<div class="assignment" markdown="1">
+
+### Blog comments
+
+- In addition to posting articles on the blog you will also be required to comment **on your classmates articles** 20 times over the course of the semester. 
+
+*20 points*
+
+</div>
+
+<div class="assignment" markdown="1">
+
+### Reading comments
+
+- The course blog also contains the readings for the semester. In addition to commenting on your classmates posts, you will also have to **comment 20 times on items from the reading list**. 
+
+*20 points*
+
+</div>
+
+<div class="assignment" markdown="1">
+
+### Case studies
+
+- There will be five in-class case study assignments to be completed with your group.  
+
+*25 points*
+
+</div>
+
+<div class="assignment" markdown="1">
+
+### Final Discussion
+
+- During final exam week I will hold three open discussions on Zoom. These are open discussions in which everyone should expect to participate at least a little bit. The topic of these discussions will be "Science or Superstition?" and I will explain the format as they get closer. 
+
+*10 points*
+
+</div>
+## *Grades*
+
+<div class="caution" markdown="1">
+
+There are **130 possible points** in the course. 
+
+  - **To pass** you need to earn **72 points** (55% of total).
+  - **For a C** you need to earn **90 points** (70% of total).
+  - **For a B** you need to earn **105 points** (80% of total).
+  - **For an A** you need to earn **118 points** (90% of total). 
+  
+</div>
+
+***
+
+## *Accessibility*
+
+<div class="infobox" markdown="1">
+
+Plymouth State University is committed to providing students with documented disabilities equal access to all university programs and facilities. If you think you have a disability requiring accommodations, you should contact Campus Accessibility Services (CAS), located in Speare (535-3300) to determine whether you are eligible for such accommodations. According to University policy accommodations will only be considered for students who have registered with CAS. If you have authorized CAS to electronically deliver a Letter of Accommodations for this course, please let me know and we can work out how to meet your needs.
+
+In addition, I have designed and chosen web-based learning material with accessibility in mind. If you find any shortcoming in this regard please let me know and I can fix things.
+
+</div>
+
+***
+
+### *Catalog Course Description*
+
+Utilizes scientific methodologies to investigate, analyze, and interpret data to propose answers, offer explanations, and make predictions to philosophically analyze the power and limitations of science. Distinguishes science from irrational opinion and superstition. Explores the extent to which science is a way to knowledge, and finds philosophical principles that can guide us in evaluating controversial beliefs.
+
+### *Course learning outcomes*
+
+1. Utilize scientific methods to plan, investigate, collect, analyze, and interpret data to propose answers and explanations about reality.
+2. Engage in significant field or lab work to study and analyze phenomena and make predictions about experiences in contemporary environments.
+3. Identify the power and limitations of scientific methodologies.
+4. Distinguish between science, pseudoscience, and superstition.
+5. Identify philosophical principles that can guide us in evaluating controversial beliefs.
+6. Distinguish between scientific reasoning and irrational opinion.
+
+### *ADA Statement*
+
+Plymouth State University is committed to providing students with documented disabilities equal access to all university programs and facilities. If you think you have a disability requiring accommodations, you should immediately contact the Disability Services Office (DSO) in the Center for Student Success in Mary Lyon (535-3065) to determine whether you are eligible for such accommodations. Academic accommodations will only be considered for students who have registered with DSO. If you have a Letter of Accommodation for this course from DSO, please provide the instructor with that information privately so that you and the instructor can review those accommodations.

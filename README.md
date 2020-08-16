@@ -1,9 +1,15 @@
 # Course files
 
-Various files used in a course called "Science or Superstition."
+Various files used in courses.
 
-Feel free to use.
+Feel free to copy, modify, etc.
 
+## PHL 210: Ethics
+
+
+
+
+## PYDI 2710: Science or Superstition
 
 [syllabus](PYDI-2710-SP-2020.html)
 - [print](PYDI-2710-SP-2020.pdf)
