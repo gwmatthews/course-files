@@ -1,6 +1,7 @@
 ---
 title: "PY 3155: Society, Ethics and the Law"
 author: "George W. Matthews"
+institute: "Plymouth State University"
 date: "Fall 2020"
 output:
  pdf_document: 
@@ -17,12 +18,19 @@ output:
 
 ***
 
+<div class="note" markdown="1">
 
-```{asis, echo=identical(knitr:::pandoc_to(), 'html')}
+The theme for this version of this class is "NO JUSTICE, NO PEACE."
 
-<h3>Plymouth State University</h3>
+- What does that even mean?
 
-```
+- Is it a call to action or a sign of resignation?
+
+- Does it express hope in the possibility of justice and peace or is it cynically dismissive?
+
+- How can we be even interested in Justice and Peace with _**them**_?
+
+</div>
 
 
 ## *Contact info*
@@ -62,6 +70,10 @@ There is no textbook for this course. Required readings and other assignments ar
 </div>
 
 <div class="infobox" markdown="1">
+
+##### Each **section** of the course lasts **two weeks** and covers one chapter in the online text.
+
+<br>
 
 |     SECTION     |  Online | Justice Comments | Blog Post | Blog Comments | Project |
 |:---------------:|:-------:|:----------------:|:---------:|:-------------:|:-------:|
@@ -164,17 +176,21 @@ In addition, I have designed and chosen web-based learning material with accessi
 
 ### *Catalog Course Description*
 
-Utilizes scientific methodologies to investigate, analyze, and interpret data to propose answers, offer explanations, and make predictions to philosophically analyze the power and limitations of science. Distinguishes science from irrational opinion and superstition. Explores the extent to which science is a way to knowledge, and finds philosophical principles that can guide us in evaluating controversial beliefs.
+Students are tasked with analyzing how ethics and morality intersect with the criminal justice system and in turn effect society. Explores ethical theories and legal concepts, with particular attention to legal issues connected to race, class, and gender. Students are expected to apply interdisciplinary concepts in order to demonstrate their mastery of general education skills. Not open to students who have earned credits for CJ 3150. (DICO) (INCO)(INCP)
 
 ### *Course learning outcomes*
 
-1. Utilize scientific methods to plan, investigate, collect, analyze, and interpret data to propose answers and explanations about reality.
-2. Engage in significant field or lab work to study and analyze phenomena and make predictions about experiences in contemporary environments.
-3. Identify the power and limitations of scientific methodologies.
-4. Distinguish between science, pseudoscience, and superstition.
-5. Identify philosophical principles that can guide us in evaluating controversial beliefs.
-6. Distinguish between scientific reasoning and irrational opinion.
+On successful completion of this course the student will be able to:
+
+1. Describe the aim of philosophy, its major branches and how it differs from science and other cultural forms.
+2. Explain and employ valid and sound reasoning.
+3. Classify and describe logical fallacies and cognitive biases as they relate to reasoning about ethics.
+4. Explain and analyze major philosophical approaches to ethics in terms of their claims, consequences and common arguments given in their support.
+5. Critically assess philosophical arguments about real-world ethical issues. 
+6. Describe and explain the major lines of argument concerning a selection of issues in applied ethics and social and political philosophy.
+7. Engage in philosophical debate with their peers on a variety of topics in ethics.
+*. Demonstrate proficiency in the use of online writing tools such as Wordpress.
 
 ### *ADA Statement*
 
-Plymouth State University is committed to providing students with documented disabilities equal access to all university programs and facilities. If you think you have a disability requiring accommodations, you should immediately contact the Disability Services Office (DSO) in the Center for Student Success in Mary Lyon (535-3065) to determine whether you are eligible for such accommodations. Academic accommodations will only be considered for students who have registered with DSO. If you have a Letter of Accommodation for this course from DSO, please provide the instructor with that information privately so that you and the instructor can review those accommodations.
+Plymouth State University is committed to providing students with documented disabilities equal access to all university programs and facilities. If you think you have a disability requiring accommodations, you should contact Campus Accessibility Services (CAS), located in Speare (535-3300) to determine whether you are eligible for such accommodations. Academic accommodations will only be considered for students who have registered with CAS. If you have authorized CAS to electronically deliver a Letter of Accommodations for this course, please communicate with your instructor to review your accommodations.

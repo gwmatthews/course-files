@@ -24,7 +24,6 @@ output:
 
 ```
 
-
 ## *Contact info*
 
 <div class="infobox" markdown="1">
@@ -67,6 +66,10 @@ There is no textbook for this course. Required readings and other assignments ar
 
 
 <div class="infobox" markdown="1">
+
+##### Each **section** of the course lasts **two weeks** and covers one chapter in the online text.
+
+<br>
 
 |     SECTION     |  Online | Reading Comments | Blog Post  | Blog Comments | Case Study | Project  |
 |:---------------:|:-------:|:----------------:|:----------:|:-------------:|:----------:|:--------:|
@@ -210,4 +213,4 @@ Utilizes scientific methodologies to investigate, analyze, and interpret data to
 
 ### *ADA Statement*
 
-Plymouth State University is committed to providing students with documented disabilities equal access to all university programs and facilities. If you think you have a disability requiring accommodations, you should immediately contact the Disability Services Office (DSO) in the Center for Student Success in Mary Lyon (535-3065) to determine whether you are eligible for such accommodations. Academic accommodations will only be considered for students who have registered with DSO. If you have a Letter of Accommodation for this course from DSO, please provide the instructor with that information privately so that you and the instructor can review those accommodations.
+Plymouth State University is committed to providing students with documented disabilities equal access to all university programs and facilities. If you think you have a disability requiring accommodations, you should contact Campus Accessibility Services (CAS), located in Speare (535-3300) to determine whether you are eligible for such accommodations. Academic accommodations will only be considered for students who have registered with CAS. If you have authorized CAS to electronically deliver a Letter of Accommodations for this course, please communicate with your instructor to review your accommodations.
