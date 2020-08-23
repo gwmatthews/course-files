@@ -17,13 +17,6 @@ output:
 
 ***
 
-
-```{asis, echo=identical(knitr:::pandoc_to(), 'html')}
-
-<h3>Plymouth State University</h3>
-
-```
-
 ## *Contact info*
 
 <div class="infobox" markdown="1">
