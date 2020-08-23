@@ -6,13 +6,25 @@ Feel free to copy, modify, etc.
 
 ## PHL 210: Ethics
 
-
+[FA 2020 syllabus](PHL-210-FA-2020.html)
+- [print](PL-210-FA-2020.pdf)
 
 
 ## PYDI 2710: Science or Superstition
 
-[syllabus](PYDI-2710-SP-2020.html)
+[SP 2020 syllabus](PYDI-2710-SP-2020.html)
 - [print](PYDI-2710-SP-2020.pdf)
+
+[FA 2020 syllabus](PYDI-2710-FA-2020.html)
+- [print](PYDI-2710-FA-2020.pdf)
+***
+### PY 3155: Society Ethics and the Law
+
+[FA 2020 syllabus](PY-3155-FA-2020.html)
+- [print](PY-3155-FA-2020.pdf)
+
+
+
 
 ***
 ### lesson plans

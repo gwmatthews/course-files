@@ -50,3 +50,24 @@
   }
   
 }
+
+
+/* redo tables  */
+
+table {
+  margin: auto;
+  border-top: 1px solid var(--border-color-1);
+  border-bottom: 1px solid var(--border-color-1);
+}
+
+table thead th { 
+  border-bottom: 1px solid var(--border-color-1);
+}
+
+th, td { 
+  padding: 5px; 
+}
+
+thead, tfoot, tr:nth-child(even) { background: #ddd;
+color: black;
+}

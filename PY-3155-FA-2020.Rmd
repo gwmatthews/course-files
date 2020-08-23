@@ -1,5 +1,5 @@
 ---
-title: "PYDI 2710: Science or Superstition "
+title: "PY 3155: Society, Ethics and the Law"
 author: "George W. Matthews"
 date: "Fall 2020"
 output:
@@ -7,7 +7,7 @@ output:
   latex_engine: pdflatex
   toc: no
   includes:
-   in_header: "PYDI-2710-FA-2020-preamble.tex"
+   in_header: "PY-3155-FA-2020-preamble.tex"
  html_document:
   toc: no
   css: syllabus-style.css
@@ -45,11 +45,11 @@ output:
 
 | M              | T                                 | W              | TH                                | F | SA | SU |
 |----------------|-----------------------------------|----------------|-----------------------------------|---|----|----|
-|                | Video <br>11 AM-12 noon<br>2-3 PM |                | Video <br>11 AM-12 noon<br>2-3 PM |   |    |    |
-| text<br>7-9 PM |                                   | text<br>7-9 PM |                                   |   |    |    |
+|                | Video <br>9:30 - 10:30 AM         |                | Video <br>9:30 - 10:30 AM         |   |    |    |
+| text<br>6-7 PM |                                   | text<br>6-7 PM |                                   |   |    |    |
 
 
-* REPEATS EVERY TWO WEEKS *
+##### *REPEATS EVERY TWO WEEKS*
 
 </div>
 
@@ -57,46 +57,24 @@ output:
 
 <div class="note" markdown="1">
 
-There is no textbook for this course. Required readings and other assignments are available at the [Science or Superstition course blog](https://www.6worlds.net/science-blog/). We will be making extensive use of the blog in this course so please check it out and bookmark it now. In the beginning of the course there will be a workshop on how to use the blog.
+There is no textbook for this course. Required readings and other assignments are available at the [Society, Ethics and the Law course blog](http://www.6worlds.net/society-ethics-law/). We will be making extensive use of the blog in this course so please check it out and bookmark it now. In the beginning of the course there will be a workshop on how to use the blog.
 
 </div>
-
-
-
-## *Assignments* 
-
 
 <div class="infobox" markdown="1">
 
-|     SECTION     |  Online | Reading Comments | Blog Post  | Blog Comments | Case Study | Project  |
-|:---------------:|:-------:|:----------------:|:----------:|:-------------:|:----------:|:--------:|
-|  1. 8/24 - 9/6  |    2    |         4        |            |               |            |          |
-|  2. 9/7 - 9/20  |    2    |         4        |     1+     |       4       |      1*    |          |
-|  3. 9/21 - 10/4 |    2    |         4        |     1+     |       4       |      2*    |          |
-| 4. 10/5 - 10/18 |    2    |         4        |     1+     |       4       |      3*    |  begin*  |
-| 5. 10/19 - 11/1 |    2    |         4        |            |       4       |      4*    |   work*  |
-| 6. 11/2 - 11/20 |    2    |         4        |  project*  |       4       |      5*    |   POST*  |
-
-`+ = deadline determined by group`
-
-`* = work with group`
-
-
+|     SECTION     |  Online | Justice Comments | Blog Post | Blog Comments | Project |
+|:---------------:|:-------:|:----------------:|:---------:|:-------------:|:-------:|
+|  1. 8/24 - 9/6  |    2    |         2        |           |       5       |         |
+|  2. 9/7 - 9/20  |    2    |         2        |     1     |       5       |         |
+|  3. 9/21 - 10/4 |    2    |         2        |     1     |       5       |         |
+| 4. 10/5 - 10/18 |    2    |         2        |     1     |       5       |  begin  |
+| 5. 10/19 - 11/1 |    2    |         2        |           |       5       |  work   |
+| 6. 11/2 - 11/20 |    2    |         2        |  Project  |       5       |  POST   |
 </div>
 
 
-## Work Groups
-
-<div class="note" markdown="1">
-
-Everyone in the class will be randomly assigned to a group of 5 (or maybe 6) students. 
-
-- Some assignments -- the case studies and the group project are to be done with these groups.*
-- Other assignments, such as the blog post are SCHEDULED by group but you need not work on them with your groups.+
-
-</div>
-
-## Assignment Details
+## *Assignments* 
 
 <div class="assignment" markdown="1">
 
@@ -104,31 +82,30 @@ Everyone in the class will be randomly assigned to a group of 5 (or maybe 6) stu
 
 - I'll be online in the video chatroom twice and in the text chatroom twice in each section of the course. You have to attend any two of these. 
 - The format of both is open, although at times I'll have specific things to talk about. Do expect to participate and come prepared by having looked at some recent course material. 
-- The final text chat of each section will be devoted to the case study starting in section 2.
 
 *30 points*
 
 </div>
 
-<div class="assignment" markdown="1">
+<div class="assignment" markdown ="1">
 
-### Reading Comments 
+### Justice Comments
 
-- There are two parts of the blog, the static material that I post on content "pages" and your always new blog "posts." You will have to comment on both.
-- Each section you should write 4 comments on any page in the relevant reading section. So if it's section 3 comment on any items the third section's reading list. 
-- Please disagree, be clear and write at least 70 words in a comment! (this is 70+).
+- Every section contains 4 25 minute long lectures from Michael Sandels "Justice" course at Harvard. 
+- This semester we are going to follow this lecture series as a supplement to reading the text. 
+- Your assignment is to pick two of the fours videos in each section and write a longish comment (300-500 words long) to it.
+- Your comments can take whatever form and style you want them to.
+- Write these comments below and if you are not the first poster you must respond to something from a previous comment.
 
-*1 point each up to 25 total*
+*5 points each, maximum 50 points.*
 
 </div>
-
 
 <div class="assignment" markdown="1">
 
 ### Blog Posts
 
-- Everyone in the course will be required to post three original articles to the course blog. Posting deadlines will be determined by which group you are in. See [course calendar](http://www.6worlds.net/science-blog/science-or-superstition/assignments/) for details. 
-- Read [guidelines](https://www.6worlds.net/science-blog/science-or-superstition/chapter-1/1-1/welcome/) before posting.
+- Everyone in the course will be required to post three original articles to the course blog. Posting deadlines will be determined by which group you are in. See [course calendar](https://www.6worlds.net/society-ethics-law/society-ethics-and-the-law/preface/readme/) for details. 
 
 *30 points*
 
@@ -138,46 +115,36 @@ Everyone in the class will be randomly assigned to a group of 5 (or maybe 6) stu
 
 ### Blog Comments
 
-- In addition to posting articles on the blog you will also be required to comment **on your classmates articles** 25 times over the course of the semester starting in the second section.
-- Again, plase disagree and feel free to repond to responses.
+- These should be evenly divided between comments on your classmates' blog posts and the reading and other content listed for each section.
+- These should be evenly divided between supporting, neutral and critical. Be constructive in your criticism.
+- Blog posters note: you can always revise their work. Reply in a comment when you change things.
+- Five comments are due at the end of each section.
 
-*1 point each up to 25 total*
-
-</div>
-
-<div class="assignment" markdown="1">
-
-### Case Studies
-
-- These are short, directed research and reflection activities to be done with your groups. 
-- Text and video chat are easily available to facilitate working as a group. We'll set this up in our first online sessions.
-- These start in the second section, and are to be turned in as submitted Google forms by the end of sections 2-6.
-
-*30 points*
+*1 point each up to 30 points*
 
 </div>
 
 <div class="assignment" markdown="1">
 
-### Final Project
+### Action Project
 
-- This is a collaborative research and presentation project on some area of "Not Quite Science." 
-- We'll talk about possible topics, but this will involve some sort of visual presentation using some presentation tool such as Prezi, Slides, Thinglink, h5P, etc. or photo gallery, art work, video, etc. 
-- The medium is up to you, but it should be embeddable in a Wordpress post (talk to me for technical assistance).
+- This is a project on any topic that has to do with active citizenship. 
+- It can involve: building a coalition, contributing to the blog, making a documentary video, composing a photo essay.
+- We'll discuss this in class.
 
-*20 points*
+*10 points*
 
 </div>
 ## *Grades*
 
 <div class="caution" markdown="1">
 
-There are **160 possible points** in the course. 
+There are **150 possible points** in the course. 
 
-  - **To pass** you need to earn **90 points** (55% of total).
-  - **For a C** you need to earn **110 points** (70% of total).
-  - **For a B** you need to earn **130 points** (80% of total).
-  - **For an A** you need to earn **145 points** (90% of total). 
+  - **To pass** you need to earn **80 points** (55% of total).
+  - **For a C** you need to earn **105 points** (70% of total).
+  - **For a B** you need to earn **120 points** (80% of total).
+  - **For an A** you need to earn **135 points** (90% of total). 
   
 </div>
 
