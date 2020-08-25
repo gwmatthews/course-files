@@ -67,13 +67,11 @@ There is no textbook for this course. Required readings and other assignments ar
 |     SECTION     |  Online | Reading Comments | Blog Post  | Blog Comments | Case Study | Project  |
 |:---------------:|:-------:|:----------------:|:----------:|:-------------:|:----------:|:--------:|
 |  1. 8/24 - 9/6  |    2    |         4        |            |               |            |          |
-|  2. 9/7 - 9/20  |    2    |         4        |     1+     |       4       |      1*    |          |
-|  3. 9/21 - 10/4 |    2    |         4        |     1+     |       4       |      2*    |          |
-| 4. 10/5 - 10/18 |    2    |         4        |     1+     |       4       |      3*    |  begin*  |
+|  2. 9/7 - 9/20  |    2    |         4        |     1      |       4       |      1*    |          |
+|  3. 9/21 - 10/4 |    2    |         4        |     1      |       4       |      2*    |          |
+| 4. 10/5 - 10/18 |    2    |         4        |     1      |       4       |      3*    |  begin*  |
 | 5. 10/19 - 11/1 |    2    |         4        |            |       4       |      4*    |   work*  |
 | 6. 11/2 - 11/20 |    2    |         4        |  project*  |       4       |      5*    |   POST*  |
-
-`+ = deadline determined by group`
 
 `* = work with group`
 
@@ -88,7 +86,8 @@ There is no textbook for this course. Required readings and other assignments ar
 Everyone in the class will be randomly assigned to a group of 5 (or maybe 6) students. 
 
 - Some assignments -- the case studies and the group project are to be done with these groups.*
-- Other assignments, such as the blog post are SCHEDULED by group but you need not work on them with your groups.+
+
+- Each group has its own dedicated discussion forum that can be used to coordinate group work. It is available on the Moodle home page.
 
 </div>
 
