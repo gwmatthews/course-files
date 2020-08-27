@@ -3,14 +3,14 @@ title: "PHL 210: Ethics"
 author: "George W. Matthews"
 date: "Fall 2020"
 output:
- html_document:
-  toc: no
-  css: syllabus-style.css
  pdf_document: 
   latex_engine: pdflatex
   toc: no
   includes:
    in_header: "PHL-210-FA-2020-preamble.tex"
+ html_document:
+  toc: no
+  css: syllabus-style.css
 ---
 
 \thispagestyle{fancy}
@@ -76,15 +76,15 @@ At the end of the semester there will also be a larger assignment, as you can se
 
 ##### All assignments:
 
-|     SECTION      | Chat | New Forum<br>Thread | Forum<br>Replies | Hypothesis<br>Notes | Applied<br>Ethics<br>Post | Applied<br>Ethics<br>Replies  |
-|:----------------:|:----:|:-------------------:|:----------------:|:-------------------:|:-------------------------:|:-----------------------------:|
-|  1. 8/17 - 8/23  |  1   |     1               |        5         |         4           |                           |                               |
-|  2. 8/24 - 9/13  |  1   |     1               |        5         |         4           |                           |                               |
-|  3. 9/14 - 9/27  |  1   |     1               |        5         |         4           |                           |                               |
-| 4. 9/28 - 10/11  |  1   |     1               |        5         |         4           |                           |                               |
-| 5. 10/12 - 10/25 |  1   |     1               |        5         |         4           |                           |                               |
-| 6. 10/26 - 11/8  |  1   |     1               |        5         |         4           |                           |                               |
-| 7. 11//9 - 12/4  | (1)  |     2*              |        4         |   5 (project)       |              1            | 3 (on project forum)          |
+|     SECTION       | Chat | New Forum<br>Thread | Forum<br>Replies | Hypothesis<br>Notes | Applied<br>Ethics<br>Post | Applied<br>Ethics<br>Replies  |
+|:-----------------|:----:|:-------------------:|:----------------:|:-------------------:|:-------------------------:|:-----------------------------:|
+| 1. 8/17--8/23    |  1   |     1               |        5         |         4           |                           |                               |
+| 2. 8/24--9/13    |  1   |     1               |        5         |         4           |                           |                               |
+| 3. 9/14--9/27    |  1   |     1               |        5         |         4           |                           |                               |
+| 4. 9/28--10/11   |  1   |     1               |        5         |         4           |                           |                               |
+| 5. 10/12--10/25  |  1   |     1               |        5         |         4           |                           |                               |
+| 6. 10/26--11/8   |  1   |     1               |        5         |         4           |                           |                               |
+| 7. 11/9--12/4    | (1)  |     2*              |        4         |   5 (project)       |              1            | 3 (on project forum)          |
 
     7th chat is optional/extra credit.
     *  One on each of two articles in the 77 Arguments book.
