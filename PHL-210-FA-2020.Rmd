@@ -76,7 +76,7 @@ At the end of the semester there will also be a larger assignment, as you can se
 
 ##### All assignments:
 
-|     SECTION       | Chat | New Forum<br>Thread | Forum<br>Replies | Hypothesis<br>Notes | Applied<br>Ethics<br>Post | Applied<br>Ethics<br>Replies  |
+|     SECTION       | Chat | New Forum<br> Thread | Forum<br> Replies | Hypothesis<br> Notes | Applied<br> Ethics<br> Post | Applied<br> Ethics<br> Replies  |
 |:-----------------|:----:|:-------------------:|:----------------:|:-------------------:|:-------------------------:|:-----------------------------:|
 | 1. 8/17--8/23    |  1   |     1               |        5         |         4           |                           |                               |
 | 2. 8/24--9/13    |  1   |     1               |        5         |         4           |                           |                               |
