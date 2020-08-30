@@ -78,11 +78,11 @@ There is no textbook for this course. Required readings and other assignments ar
 |     SECTION     |  Online | Justice Comments | Blog Post | Blog Comments | Project |
 |:---------------:|:-------:|:----------------:|:---------:|:-------------:|:-------:|
 |  1. 8/24 - 9/6  |    2    |         2        |           |       5       |         |
-|  2. 9/7 - 9/20  |    2    |         2        |     1     |       5       |         |
-|  3. 9/21 - 10/4 |    2    |         2        |     1     |       5       |         |
-| 4. 10/5 - 10/18 |    2    |         2        |     1     |       5       |  begin  |
-| 5. 10/19 - 11/1 |    2    |         2        |           |       5       |  work   |
-| 6. 11/2 - 11/20 |    2    |         2        |  Project  |       5       |  POST   |
+|  2. 9/7 - 9/20  |    2    |         2        |     1     |       7       |         |
+|  3. 9/21 - 10/4 |    2    |         2        |     1     |       7       |         |
+| 4. 10/5 - 10/18 |    2    |         2        |     1     |       7       |  begin  |
+| 5. 10/19 - 11/1 |    2    |         2        |           |       7       |  work   |
+| 6. 11/2 - 11/20 |    2    |         2        |  Project  |       7       |  POST   |
 </div>
 
 
@@ -130,9 +130,9 @@ There is no textbook for this course. Required readings and other assignments ar
 - These should be evenly divided between comments on your classmates' blog posts and the reading and other content listed for each section.
 - These should be evenly divided between supporting, neutral and critical. Be constructive in your criticism.
 - Blog posters note: you can always revise their work. Reply in a comment when you change things.
-- Five comments are due at the end of each section.
+- Seven comments are due at the end of each section (five in section 1), for a total of 40 over the course of the semester.
 
-*1 point each up to 30 points*
+*1 point each up to 40 points*
 
 </div>
 
@@ -144,19 +144,19 @@ There is no textbook for this course. Required readings and other assignments ar
 - It can involve: building a coalition, contributing to the blog, making a documentary video, composing a photo essay.
 - We'll discuss this in class.
 
-*10 points*
+*20 points*
 
 </div>
 ## *Grades*
 
 <div class="caution" markdown="1">
 
-There are **150 possible points** in the course. 
+There are **170 possible points** in the course. 
 
-  - **To pass** you need to earn **80 points** (55% of total).
-  - **For a C** you need to earn **105 points** (70% of total).
-  - **For a B** you need to earn **120 points** (80% of total).
-  - **For an A** you need to earn **135 points** (90% of total). 
+  - **To pass** you need to earn **95 points** (55% of total).
+  - **For a C** you need to earn **120 points** (70% of total).
+  - **For a B** you need to earn **135 points** (80% of total).
+  - **For an A** you need to earn **150 points** (90% of total). 
   
 </div>
 
