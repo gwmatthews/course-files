@@ -193,7 +193,7 @@ On successful completion of this course the student will be able to:
 5. Critically assess philosophical arguments about real-world ethical issues. 
 6. Describe and explain the major lines of argument concerning a selection of issues in applied ethics and social and political philosophy.
 7. Engage in philosophical debate with their peers on a variety of topics in ethics.
-*. Demonstrate proficiency in the use of online writing tools such as Wordpress.
+8. Demonstrate proficiency in the use of online writing tools such as Wordpress.
 
 ### *ADA Statement*
 

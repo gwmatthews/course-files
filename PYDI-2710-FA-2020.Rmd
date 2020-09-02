@@ -85,6 +85,7 @@ There is no textbook for this course. Required readings and other assignments ar
 
 `* = work with group`
 
+**Final Discussion** To conclude the semester we will have an online "fishbowl" discussion on the topic of "Science or Superstition?" This will take place twice on Thurday November 19, at 11 AM and then again at 2 PM.
 
 </div>
 
@@ -144,9 +145,9 @@ Everyone in the class will be randomly assigned to a group of 5 (or maybe 6) stu
 ### Blog Comments
 
 - In addition to posting articles on the blog you will also be required to comment **on your classmates articles** 25 times over the course of the semester starting in the second section.
-- Again, plase disagree and feel free to repond to responses.
+- Again, please disagree and feel free to rsepond to responses.
 
-*1 point each up to 25 total*
+*1 point each up to 20 total*
 
 </div>
 
@@ -171,6 +172,16 @@ Everyone in the class will be randomly assigned to a group of 5 (or maybe 6) stu
 - The medium is up to you, but it should be embeddable in a Wordpress post (talk to me for technical assistance).
 
 *20 points*
+
+</div>
+
+<div class="assignment" markdown="1">
+
+### Final Discussion
+
+- To conclude the semester we will meet online to settle the question, "Science or superstition?"
+
+*10 points*
 
 </div>
 ## *Grades*
