@@ -86,7 +86,7 @@ There is no textbook for this course. Required readings and other assignments ar
 |  3. 9/21 - 10/4 |    2    |         2        |     1     |       7       |         |
 | 4. 10/5 - 10/18 |    2    |         2        |     1     |       7       |  begin  |
 | 5. 10/19 - 11/1 |    2    |         2        |           |       7       |  work   |
-| 6. 11/2 - 11/20 |    2    |         2        |  Project  |       7       |  POST   |
+| 6. 11/2 - 11/20 |    2    |       (2)        |  Project  |       7       |  POST   |
 </div>
 
 
@@ -109,9 +109,9 @@ There is no textbook for this course. Required readings and other assignments ar
 
 - Every section contains 4 25 minute long lectures from Michael Sandels "Justice" course at Harvard. 
 - This semester we are going to follow this lecture series as a supplement to reading the text. 
-- Your assignment is to pick two of the fours videos in each section and write a longish comment (300-500 words long) to it.
+- Your assignment is to pick two of the four videos in each section and write a longish comment (300-500 words long) to it.
 - Your comments can take whatever form and style you want them to.
-- Write these comments below and if you are not the first poster you must respond to something from a previous comment.
+- NOTE: you need to do 10 of these total, so you get to miss two.
 
 *5 points each, maximum 50 points.*
 
