@@ -4,14 +4,14 @@ author: "George W. Matthews"
 institute: "Plymouth State University"
 date: "Fall 2020"
 output:
+ html_document:
+  toc: no
+  css: syllabus-style.css
  pdf_document: 
   latex_engine: pdflatex
   toc: no
   includes:
    in_header: "PY-3155-FA-2020-preamble.tex"
- html_document:
-  toc: no
-  css: syllabus-style.css
 ---
 
 \thispagestyle{fancy}

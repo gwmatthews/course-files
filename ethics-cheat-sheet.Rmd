@@ -1,0 +1,55 @@
+---
+title: "Ethics Cheat Sheet"
+author: "George W. Matthews"
+institute: "Pennsylvania College of Technology"
+date: "Fall 2020"
+output:
+ pdf_document: 
+  latex_engine: pdflatex
+  toc: no
+  includes:
+   in_header: "cheat-sheet-preamble.tex"
+ html_document:
+  toc: no
+  css: cheat-sheet-style.css
+---
+
+\thispagestyle{fancy}
+
+***
+<div class="card-row"  markdown="1">
+<div class="small-card" markdown="1">
+
+The theme for this version of this class is "NO JUSTICE, NO PEACE."
+
+</div>
+
+
+<div class="small-card" markdown="1">
+
+**Email**: this is the most reliable way to contact me. Address available on Moodle and in Outlook. 
+
+</div>
+
+</div>
+
+***
+
+## *Online Schedule*
+
+<div class="infobox" markdown="1">
+
++---------+:-------------:+:--------------:+:---------:+:-------------:+
+|         | M             | T             | W          | TH            |
++=========+:=============:+:=============:+:==========:+:=============:+
+| Week 1  |               | **video** \   |            | **video** \   | 
+|         |               | 9:30 AM       |            | 9:30 AM       |
++---------+:-------------:+:-------------:+:----------:+:-------------:+
+| Week 2  | **text** \    |               | **text** \ |               |        
+|         | 6 - 7 PM      |               | 6 - 7 PM   |               |
++---------+:-------------:+:-------------:+:----------:+:-------------:+
+
+##### *REPEATS EVERY TWO WEEKS*
+
+</div>
+
