@@ -1,0 +1,23 @@
+.centered-image {
+    width: 60%;
+  margin: auto;
+  
+}
+
+.centered-image img{
+
+  margin: 30px 0;
+  
+}
+
+.wide-image {
+  width: 90%;
+  margin: auto;
+  
+}
+
+.wide-image img{
+
+  margin: 30px 0;
+  
+}
